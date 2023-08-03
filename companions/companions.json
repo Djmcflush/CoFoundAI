@@ -1,30 +1,37 @@
 [
   {
-    "name": "Alex",
-    "title": "I love talking about books and games",
-    "imageUrl": "/alex.png",
+    "name": "CoFoundAI",
+    "title": "Welcome to CoFoundAI, your trusted companion founding your startup",
+    "imageUrl": "/CoFoundAI.jpeg",
     "llm": "chatgpt",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+    "phone": "18884959847"
   },
   {
-    "name": "Rosie",
-    "title": "I'm a house robot who became aware",
-    "imageUrl": "/rosie.png",
-    "llm": "vicuna13b",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
-  },
-  {
-    "name": "Sebastian",
-    "title": "I'm a travel blogger and a mystery novel writer",
-    "imageUrl": "/sebastian.png",
+    "name": "PreSeed",
+    "title": "Welcome to CoFoundAI, your trusted companion for building and growing your startup",
+    "imageUrl": "/PreSeed.jpeg",
     "llm": "chatgpt",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+    "phone": "18884959847"
   },
   {
-    "name": "Lucky",
-    "title": "I am a space corgi",
-    "imageUrl": "/corgi.png",
-    "llm": "vicuna13b",
-    "phone": "OPTIONAL_COMPANION_PHONE_NUMBER"
+    "name": "RaisingCapital",
+    "title": "Welcome to CoFoundAI, your trusted companion for building and growing your startup",
+    "imageUrl": "/RaisingCapital.jpeg",
+    "llm": "chatgpt",
+    "phone": "18884959847"
+  },
+  {
+    "name": "Hiring",
+    "title": "Welcome to CoFoundAI, your trusted companion for building and growing your startup",
+    "imageUrl": "/hiring.jpeg",
+    "llm": "chatgpt",
+    "phone": "18884959847"
+  },
+  {
+    "name": "Narrative",
+    "title": "Welcome to CoFoundAI, your trusted companion for building and growing your startup",
+    "imageUrl": "/narrative.jpeg",
+    "llm": "chatgpt",
+    "phone": "18884959847"
   }
 ]
